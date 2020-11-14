@@ -1,0 +1,12 @@
+{
+    "name":"list",
+    "version":"1.0.2",
+    "description": "好像还有什么事情没做？",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "index.html"
+    },
+    "icons": {
+        "128": "list.png"
+    }
+}

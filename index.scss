@@ -1,0 +1,23 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+ul li{
+    display: flex;
+    h3{
+        width: 70px;
+        text-align: left;
+        padding-right: 10px;
+    } 
+    p{
+        font-size: 12px;
+        flex:1;
+    }
+}
+ul{
+    width: 300px;
+}
+body{
+    margin: 20px;
+}
